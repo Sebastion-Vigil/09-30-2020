@@ -50,9 +50,10 @@
     background-color: black;
     filter: brightness(150%);
     font-family: cursive;
+    color: white;
 }
 
-.red {
+/* .red {
     color: red;
 }
 .orange {
@@ -75,4 +76,4 @@
 }
 .purple {
     color: purple;
-}
+} */
